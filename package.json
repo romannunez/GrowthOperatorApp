@@ -1,0 +1,26 @@
+{
+  "name": "growthoperatorapp",
+  "version": "1.0.0",
+  "description": "\"# GrowthOperatorApp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.54.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romannunez/GrowthOperatorApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romannunez/GrowthOperatorApp/issues"
+  },
+  "homepage": "https://github.com/romannunez/GrowthOperatorApp#readme"
+}
